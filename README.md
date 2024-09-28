@@ -1,8 +1,8 @@
-# Celebración de Cumpleaños para Mamá.
+# Celebración de Cumpleaños para Mamá
 
-Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye una página interactiva con mensajes, imágenes y un diseño de libro virtual.
+Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye una página interactiva con mensajes, imágenes y un diseño de libro virtual
   
-## Instrucciones de Ejecución. 
+## Instrucciones de Ejecución
 
 1. **Clonar el Repositorio:**  
     ```bash 
