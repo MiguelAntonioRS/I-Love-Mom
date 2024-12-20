@@ -11,7 +11,7 @@ Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye
  
 2. **Navegar al Directorio del Proyecto:**
     ```bash
-    cd I-Love-Mom
+    cd I-Love-Mom 
     ```
 
 3. **Abra el Archivo HTML:**
