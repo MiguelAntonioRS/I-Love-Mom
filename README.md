@@ -14,7 +14,7 @@ Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye
     cd I-Love-Mom 
     ```
 
-3. **Abra el Archivo HTML:**
+3. **Abra el Archivo HTML:** 
     - Abre el archivo `index.html` en tu navegador web preferido.
 
 4. **Interactúa con la Página:**
