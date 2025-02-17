@@ -5,7 +5,7 @@ Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye
 ## Instrucciones de Ejecución
 
 1. **Clonar el Repositorio:** 
-    ```bash  
+    ```bash
     git clone https https://github.com/MiguelAntonioRS/I-Love-Mom.git 
     ```
   
