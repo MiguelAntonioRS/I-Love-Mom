@@ -16,7 +16,7 @@ Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye
 
 3. **Abra el Archivo HTML:** 
     - Abre el archivo `index.html` en tu navegador web preferido.
-
+ 
 4. **Interactúa con la Página:**
     - Navega a través de las páginas del libro virtual haciendo clic en los enlaces y botones.
 
