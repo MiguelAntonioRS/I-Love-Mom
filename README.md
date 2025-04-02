@@ -8,7 +8,7 @@ Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye
     ```bash
     git clone https https://github.com/MiguelAntonioRS/I-Love-Mom.git 
     ```
- 
+
 2. **Navegar al Directorio del Proyecto:**
     ```bash
     cd I-Love-Mom 
