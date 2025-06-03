@@ -1,43 +1,52 @@
-# Celebración de Cumpleaños para Mamá
- 
-Este es un proyecto web diseñado para celebrar el cumpleaños de mamá. Incluye una página interactiva con mensajes, imágenes y un diseño de libro virtual
+# 🎉 Happy Birthday Mom - Web Celebration
 
-## Instrucciones de Ejecución
+This is a simple yet heartfelt web project created to celebrate mom's birthday. It features an interactive page with messages, images, and a virtual book-style layout designed to make the occasion special.
 
-1. **Clonar el Repositorio:**
-    ```bash
-    git clone https https://github.com/MiguelAntonioRS/I-Love-Mom.git 
-    ```
+---
 
-2. **Navegar al Directorio del Proyecto:**
+## 🚀 How to Run the Project
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/MiguelAntonioRS/I-Love-Mom.git 
+
+2. **Navigate into the Project Directory:**
     ```bash
     cd I-Love-Mom
     ```
 
-3. **Abra el Archivo HTML:** 
-    - Abre el archivo `index.html` en tu navegador web preferido.
+3. **Open the HTML File:** 
+    - Open the main file in your browser: `index.html`.
  
-4. **Interactúa con la Página:**
-    - Navega a través de las páginas del libro virtual haciendo clic en los enlaces y botones.
+4. **Interact with the Page:**
+    Navigate through the virtual book pages by clicking on links and buttons.
 
-## Estructura del Proyecto
+## 📁 Project Structure
 
-- **`index.html`**: Es el punto de entrada principal de la aplicación web.
-- **`css/`**: Contiene archivos CSS para estilizar la página.
-- **`js/`**: Contiene archivos JavaScript para agregar interactividad a la página.
-- **`img/`**: Aquí se almacenan las imágenes utilizadas en la página.
+   -index.html : Main entry point of the web application.
+   
+   -css/ : Contains CSS files for styling the page.
+   
+   -js/ : Contains JavaScript files to add interactivity.
+   
+   -img/ : Stores all images used throughout the site.
 
-## Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - FontAwesome (iconos)
 
-## Contribuciones
+## 🤝 Contributing 
 
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, ¡siéntete libre de abrir un problema o enviar una solicitud de extracción!
+Contributions are welcome! If you'd like to help improve this project: 
 
-## Licencia
+   1. Fork the repository.
+      
+   2. Create a new branch:
+      ```bash
+      git checkout -b feature/your-feature-name
+      ```
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+© 2024 Miguel Antonio Rojas Sucarino
