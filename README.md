@@ -17,7 +17,7 @@ This is a simple yet heartfelt web project created to celebrate mom's birthday. 
 
 3. **Open the HTML File:** 
     - Open the main file in your browser: `index.html`.
- 
+
 4. **Interact with the Page:**
     Navigate through the virtual book pages by clicking on links and buttons.
 
