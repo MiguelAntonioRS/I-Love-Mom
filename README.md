@@ -2,7 +2,7 @@
 
 This is a simple yet heartfelt web project created to celebrate mom's birthday. It features an interactive page with messages, images, and a virtual book-style layout designed to make the occasion special.
 
----
+--- 
 
 ## 🚀 How to Run the Project
 
