@@ -15,7 +15,7 @@ This is a simple yet heartfelt web project created to celebrate mom's birthday. 
     cd I-Love-Mom
     ```
 
-3. **Open the HTML File:** 
+3. **Open the HTML File:**
     - Open the main file in your browser: `index.html`.
 
 4. **Interact with the Page:**
