@@ -11,7 +11,7 @@ This is a simple yet heartfelt web project created to celebrate mom's birthday. 
    git clone https://github.com/MiguelAntonioRS/I-Love-Mom.git
 
 2. **Navigate into the Project Directory:**
-    ```bash
+    ```bash 
     cd I-Love-Mom
     ```
 
