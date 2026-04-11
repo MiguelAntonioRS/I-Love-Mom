@@ -12,7 +12,7 @@ This is a simple yet heartfelt web project created to celebrate mom's birthday. 
 
 2. **Navigate into the Project Directory:**
     ```bash 
-    cd I-Love-Mom
+    cd I-Love-Mom 
     ```
 
 3. **Open the HTML File:**
